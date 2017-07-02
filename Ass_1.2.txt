@@ -1,0 +1,11 @@
+1. Install Angular Cli using npm.
+	- npm install -g angular-cli // Where g stands for globally
+
+2. Check angular cli version
+	- mg --version
+
+3. Create new project with Angular CLI through cm
+	- ng new PROJECT_NAME
+	  cd PROJECT_NAME
+	  ng serve
+4. Run the project on http://localhost:4200/ 
